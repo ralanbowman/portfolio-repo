@@ -1,2 +1,3 @@
 # portfolio-repo
-Repo for Netlify portfolio
+Repo for simple portfolio running on  Netlify 
+
